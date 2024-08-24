@@ -3,3 +3,5 @@ env/
 temp/
 
 exported*
+car-sales*
+!car-sales.csv
